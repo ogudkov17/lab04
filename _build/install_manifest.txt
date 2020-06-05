@@ -1,2 +1,0 @@
-/home/helgi/projects/bmstu/labs/lab04/_install/lib/libformatter.a
-/home/helgi/projects/bmstu/labs/lab04/_install/bin/hello_world
