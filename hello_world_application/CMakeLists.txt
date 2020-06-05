@@ -9,3 +9,7 @@ target_link_libraries(hello_world formatter)
 target_link_libraries(hello_world formatter_ex)
 
 
+install(TARGETS hello_world
+	RUNTIME DESTINATION bin
+	LIBRARY DESTINATION lib
+)
